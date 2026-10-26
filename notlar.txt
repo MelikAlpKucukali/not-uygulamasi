@@ -1,0 +1,5 @@
+1. pwd: Bulunulan dizinin tam yolunu gösterir.
+2. ls: Bulunulan dizindeki dosya ve klasörleri listeler.
+3. cd: Dizinler arasında geçiş yapmayı sağlar.
+4. mkdir: Yeni bir dizin (klasör) oluşturur.
+5. rm: Dosya veya klasörleri siler.
