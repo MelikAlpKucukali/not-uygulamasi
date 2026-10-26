@@ -9,3 +9,4 @@
 3. git add: Değişiklikleri staging area'ya (indekse) ekler.
 4. git commit: Staging area'daki değişiklikleri depoya kalıcı olarak kaydeder.
 5. git log: Commit geçmişini ve detaylarını listeler.
+Hafta 2 notlari tamamlandi.
